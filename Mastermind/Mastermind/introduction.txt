@@ -1,0 +1,32 @@
+Welcome to Master Mind, a two player deduction game
+in which the aim is to break the hidden code in the
+fewest number of moves possible!
+
+You will be the Code Breaker. Your job is to try and
+crack the secret code made by the computer, the Code
+Maker!
+
+Here are the rules you need to follow to play and win
+as the Code Breaker...
+
+Rules:
+	- The Code Maker will select a combination
+	  of 4 coloured pegs to create the hidden code.
+
+	- You will attempt to crack the hidden code
+	  by providing a combination of these coloured
+	  pegs in the order you think they were placed
+	  by the Code Maker.
+
+	- If your guess is wrong, the Code Maker will
+	  give you a clue to help you in your next turn.
+	  A black peg (?) will be shown to indicate a 
+	  correct colour in the wrong position. A white
+	  peg (o) will be shown to indicate a correct 
+	  colour in the correct position.
+
+	- You must guess the code in 10/12/14 turns or
+ 	  less (depending on your skill level), otherwise
+ 	  the game is over!
+
+Good luck, and have fun playing Master Mind!
